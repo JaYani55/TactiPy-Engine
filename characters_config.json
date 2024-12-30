@@ -1,11 +1,11 @@
 {
   "player": {
-    "current_ap": 88,
+    "current_ap": 100,
     "max_ap": 100,
     "speed": 5,
     "pos": {
-      "x": 11,
-      "y": 8,
+      "x": 15,
+      "y": 12,
       "z": 0
     }
   }
