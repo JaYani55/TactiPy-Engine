@@ -16,7 +16,7 @@ TODO
 - Enemies Schema 
 - Enemy AI
 • Add Scaffolding for state management and inventory management
-• Implement dedicated renderer module for advanced tactical combat visuals
+• Implement dedicated renderer module to extend ASCII Graphics with imported Tilesets.
 
 ## Scene Generation with JSON Config
 
