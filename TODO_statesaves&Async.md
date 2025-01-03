@@ -14,3 +14,6 @@ Implement database to handle the state data.
 (How would I handle savestates? Can I still? Is it one or the other?)
 (Should be fine to implement two modes? Savestates for SP should be much simpler)
 (Online tactical arena game would be kinda fun actually?)
+
+OR
+Simply remove the updating states and implement this for a later iteration this was a stupid idea to implement now.
